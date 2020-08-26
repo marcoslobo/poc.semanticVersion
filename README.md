@@ -1,2 +1,2 @@
 poc.semanticVersion
-a
+ab
